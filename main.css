@@ -1,0 +1,27 @@
+nav {
+    background-color: white
+    height: 80px;
+    width: 100vw;
+    float: right;
+    
+}
+
+.form-two{
+    text-align: center;
+    padding: 50px 50px 50px 50px
+    width: 150px 100px 150px 100px
+    background-color: white;
+    margin: 50px 300px 100px 300px
+    
+
+}
+
+.wrapper{
+    border: 150px
+    height: 150px
+    
+}
+
+body{
+    background-color: lightblue;
+}
